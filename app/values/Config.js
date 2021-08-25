@@ -1,0 +1,1 @@
+export const BaseUrl = "https://boardingschoolsoftware.com/application/service.php/";
