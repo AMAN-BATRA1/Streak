@@ -39,7 +39,7 @@ const MainRoutes = () => {
             // screenOptions={{ transitionSpec : transitionConfig }}
         >
             {/* <Stack.Screen name={'Splash'} component={Splash} /> */}
-            <Stack.Screen name={'Login'} component={Login} />
+            {/* <Stack.Screen name={'Login'} component={Login} /> */}
 
 
             <Stack.Screen name={'Dashboard'} component={Dashboard} />
